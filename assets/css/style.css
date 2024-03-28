@@ -172,7 +172,7 @@ div > hr {
     justify-content: center;
 }
 
-/*meet up times section*/
+/*meet up times section no meida query needed*/
 #times {
     background: url('../images/dublin-city.webp') no-repeat center center/cover;
     display: flex;
